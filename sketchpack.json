@@ -1,5 +1,5 @@
 {
-    "name": "Rename It",
-    "description": "Sketch plugin to rename layers like a boss. It’s a port of the awesome photoshop plugin called Renamy",
-    "tags": ["rename", "layers", "batch rename"]
+    "name": "图层命名",
+    "description": "快速批量修改图层命名.和photoshop的插件“Renamy”一样，不同的是，这个插件是免费的",
+    "tags": ["重命名", "layers", "batch rename"]
 }
